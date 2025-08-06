@@ -7,6 +7,7 @@ Not chronological
 
 #### Text
 - [x] Basic text utility (word count)
+- [ ] List generator (json, python,c pastable code ?) based on criterias (maybe regex ?)
 
 #### Numbers
 - [ ] Text based calculator (to eliminate float and large number error at the cost of time)
