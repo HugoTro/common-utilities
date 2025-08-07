@@ -11,7 +11,8 @@ Not chronological
 
 #### Numbers
 - [ ] Text based calculator (to eliminate float and large number error at the cost of time)
-- [ ] Unit conversion tool
+- [ ] Unit conversion tool (basic units)
+- [ ] Unit conversion, complex units
 
 #### PDF
 - [ ] page extraction tool
